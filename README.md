@@ -1,5 +1,6 @@
  <div align="center">
- # Talimatlar
+
+  # Talimatlar
   
 </div>
 
