@@ -14,7 +14,7 @@ global.client = client;
 client.commands = (global.commands = []);
 
 const { readdirSync } = require("fs")
-
+const { sqarlex } = require("./config.json");
 
 /* Slash Komutları Yüklüyoruz */
 
@@ -55,7 +55,7 @@ console.log(`[sqarlex - EVENT] ${name} eventi yüklendi.`)
 
 /* Eventleri Yüklüyoruz */
 
-client.login('sqarlextoken').then(app => {
+client.login(sqarlex).then(app => {
   console.log(`[sqarlex - BOT] Token girişi başarılı.`)
 }).catch(app => {
   console.log(`[sqarlex - BOT] Token girişi başarısız.`)
