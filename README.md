@@ -1,4 +1,5 @@
-   # Talimatlar
+ <div align="center">
+ # Talimatlar
   
 </div>
 
@@ -9,3 +10,5 @@
   ``https://discord.com/oauth2/authorize?client_id={applicationid}&scope=bot%20applications.commands&permissions=105227086912``
   
   Daha sonra yeni oluşturduğunuz Topluluk Sunucunuza gidin ve komutu kullanın.
+  
+Son adım, [Aktif Geliştirici Sayfası](https://discord.com/developers/active-developer)'na gidin ve rozetinizi talep edin! (Uygun olmak için komutu çalıştırdıktan sonra 24 saate kadar bekleyin.)
