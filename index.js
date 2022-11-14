@@ -55,7 +55,7 @@ console.log(`[sqarlex - EVENT] ${name} eventi yüklendi.`)
 
 /* Eventleri Yüklüyoruz */
 
-client.login(process.env.token).then(app => {
+client.login('sqarlextoken').then(app => {
   console.log(`[sqarlex - BOT] Token girişi başarılı.`)
 }).catch(app => {
   console.log(`[sqarlex - BOT] Token girişi başarısız.`)
