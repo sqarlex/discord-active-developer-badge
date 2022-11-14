@@ -12,7 +12,9 @@
   
   Daha sonra yeni oluşturduğunuz Topluluk Sunucunuza gidin ve komutu kullanın.
    <div align="center">
-    # ⭐
-Son adım, [Aktif Geliştirici Sayfası](https://discord.com/developers/active-developer)'na gidin ve rozetinizi talep edin! (Uygun olmak için komutu çalıştırdıktan sonra 24 saate kadar bekleyin.)
+   
+ # ⭐
+
+ Son adım, [Aktif Geliştirici Sayfası](https://discord.com/developers/active-developer)'na gidin ve rozetinizi talep edin! (Uygun olmak için komutu çalıştırdıktan sonra 24 saate kadar bekleyin.)
 ![image](https://user-images.githubusercontent.com/86950179/201671923-680cf692-eb8f-4e80-949f-48a23e05b8a0.png)
 </div>
